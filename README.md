@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey everybody! 👋
 
-<!--
-**AlexcastroDev/AlexcastroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open to work abroad, CV: https://bit.ly/31J2TvP
+👨🏻‍💻 Software Engineer
+Tech leader 💡
+Product manager💡
+Data Science degree 💡
 
-Here are some ideas to get you started:
+🦸🏻‍♂️Skills:
+Frontend, Mobile, backend, DevOps 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠Languages:
+Node, php, dart, JavaScript 
+
+🔩Frameworks:
+Flutter, Adonis, fastApi, lumen, laravel, codeigniter, Yii, Vue, react, React Native
+
+🔌infra:
+Linux, MySQL, docker, CI / CD, ssh, mongodb, postgree
+
+Extras:
+🎨Ui / UX designer
