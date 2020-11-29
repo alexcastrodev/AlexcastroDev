@@ -1,6 +1,6 @@
 ### Hey everybody! 👋
 
-Open to work abroad, CV: https://bit.ly/31J2TvP
+Open to work abroad, CV: https://bit.ly/3qaFXjK
 👨🏻‍💻 Software Engineer
 Tech leader 💡
 Product manager💡
