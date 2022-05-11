@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexandro</h1>
-<h3 align="center">I'm 25, A passionate frontend developer from Brazil, therefore, in Portugal currently.</h3>
+<h3 align="center">I'm 26, A passionate frontend developer from Brazil, therefore, in Portugal currently.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcastrodev&label=Profile%20views&color=0e75b6&style=flat" alt="alexcastrodev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexcastrodev" alt="alexcastrodev" /></a> </p>
 
-- 🔭 I’m currently working on **Next engineering**
+- 🔭 I’m currently working on **Flecto** as Frontend Lead
 
-- 🌱 I’m currently learning **Data Cience at Cruzeiro do sul**
+- 🌱 I’m currently learning **Data Cience at Cruzeiro do sul** and post graduate as Frontend Architect at IGTI
 
 - 💖 I Love **Open Source Project**
 
