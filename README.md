@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flecto** as Frontend Lead
 
-- 🌱 I’m currently learning **Data Cience at Cruzeiro do sul** and post graduate as Frontend Architect at IGTI
+- 🌱 I’m currently learning **Data Science at Cruzeiro do sul**
 
 - 💖 I Love **Open Source Project**
 
