@@ -32,6 +32,4 @@
 
 - 📫 How to reach me **alexoliveira7x@gmail.com**
 
-- Linkedin: https://www.linkedin.com/in/alexandro-c-oliveira/
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandro-c-oliveira/](https://www.linkedin.com/in/alexandro-c-oliveira/)
