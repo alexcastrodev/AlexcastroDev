@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcastrodev&label=Profile%20views&color=0e75b6&style=flat" alt="alexcastrodev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexcastrodev" alt="alexcastrodev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kappa.vercel.app/?username=alexcastrodev" alt="alexcastrodev" /></a> </p>
 
 #  Badges
 
