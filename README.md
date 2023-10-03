@@ -3,21 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcastrodev&label=Profile%20views&color=0e75b6&style=flat" alt="alexcastrodev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexcastrodev" alt="alexcastrodev" /></a> </p>
-
 #  Badges
 
-
-<p>
+<div style="display: flex; flex-direction: row; gap: 16px;">
 <a href="https://openprofile.dev/profile/alexcastro.dev"> <img width="150" src="https://images.credly.com/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png" alt="alexcastrodev" /> </a>
-
 <a href="https://openprofile.dev/profile/alexcastro.dev"> <img width="150"  src="https://images.credly.com/images/849aaaef-6b42-4893-b3a4-97be930ae015/LF_logobadge.png" alt="alexcastrodev" /> </a>
-</p>
+</div>
+
+# Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexcastrodev" alt="alexcastrodev" /></a> </p>
+
+# Most used language
+
+<p align="left"> <a href="https://github.com/AlexcastroDev/git-generator"><img src="https://git-generator.vercel.app/github/languages/alexcastrodev" alt="alexcastrodev" /></a> </p>
 
 # Researches
 
 [Research Repository](https://github.com/orgs/castro-research/repositories)
-
 
 # About
 
