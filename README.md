@@ -16,7 +16,7 @@
 
 # Most used language
 
-<p align="left"> <a href="https://github.com/AlexcastroDev/git-generator"><img src="https://git-generator.vercel.app/github/languages/alexcastrodev" alt="alexcastrodev" /></a> </p>
+<p align="left"> <a href="https://github.com/AlexcastroDev/git-generator"><img src="https://git-generator.vercel.app/api/github/languages/alexcastrodev" alt="alexcastrodev" /></a> </p>
 
 # Researches
 
