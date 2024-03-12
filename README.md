@@ -24,7 +24,7 @@
 
 # About
 
-- 🔭 I’m currently working on **Flecto** as Frontend Lead
+- 🔭 I’m Software developer
 
 - 🌱 I’m currently studying **Computer Science at Cruzeiro do sul**
 
