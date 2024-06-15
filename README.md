@@ -7,8 +7,9 @@
 
 <div style="display: flex; flex-direction: row; gap: 16px;">
 <a href="https://openprofile.dev/profile/alexcastro.dev"> <img width="150" src="https://images.credly.com/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png" alt="alexcastrodev" /> </a>
-<a href="https://openprofile.dev/profile/alexcastro.dev"> <img width="150"  src="https://images.credly.com/images/849aaaef-6b42-4893-b3a4-97be930ae015/LF_logobadge.png" alt="alexcastrodev" /> </a>
+<a href="https://app.daily.dev/alexoliveira7x"><img src="https://api.daily.dev/devcards/v2/dvjgyrxs8YkKcnXvEGssa.png?type=default&r=nmo" width="356" alt="Alexandro's Dev Card"/></a>
 </div>
+
 
 # Stats
 
