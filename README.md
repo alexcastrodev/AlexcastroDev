@@ -23,6 +23,7 @@
 
 [Research Repository](https://github.com/orgs/castro-research/repositories)
 
+[Lattes CNPq](http://lattes.cnpq.br/1863740377850706)
 # About
 
 - 🔭 I’m Software developer
