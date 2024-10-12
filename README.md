@@ -15,10 +15,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexcastrodev" alt="alexcastrodev" /></a> </p>
 
-# Most used language
-
-<p align="left"> <a href="https://github.com/AlexcastroDev/git-generator"><img src="https://git-generator.vercel.app/api/github/languages/alexcastrodev" alt="alexcastrodev" /></a> </p>
-
 # Researches
 
 [Research Repository](https://github.com/orgs/castro-research/repositories)
