@@ -9,10 +9,6 @@
 
 [Microsoft Badges](https://learn.microsoft.com/en-us/users/alexcastrodev/)
 
-# Open Coding
-
-[Exercism](https://exercism.org/profiles/AlexcastroDev)
-
 # Certifications 
 
 - 🎖️ Linux Foundation for [OpenJS Node.js Application Developer](https://www.credly.com/badges/9167e958-1ad1-4f17-a756-cacd0681c3c4/public_url)
@@ -20,6 +16,10 @@
 # Badges
 
 - 🛡️ [Microsoft](https://learn.microsoft.com/en-us/users/alexcastrodev)
+
+# Open Coding
+
+[Exercism](https://exercism.org/profiles/AlexcastroDev)
 
 # About
 
