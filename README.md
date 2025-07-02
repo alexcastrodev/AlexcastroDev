@@ -7,6 +7,8 @@
 
 [Lattes CNPq](http://lattes.cnpq.br/1863740377850706)
 
+[Microsoft Badges](https://learn.microsoft.com/en-us/users/alexcastrodev/)
+
 # Open Coding
 
 [Exercism](https://exercism.org/profiles/AlexcastroDev)
